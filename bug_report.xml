@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<bug>
+	<ID>"id1"</ID>
+	<Severity>"Critical"</Severity>
+	<Environment>"xUbuntu 22.04 Chrome 113"</Environment>
+	<Title>"Authorization widget in the block 'Meie kursused' does not disappear after successful authorization"</Title>
+	<Steps>"..."</Steps>
+	<Expected_Result>"The cc-box 'Kui soovite oma tulemust salvestada, siis logige palun sisse või looge konto' is dissapeared"</Expected_Result>
+	<Actual_Result>".."<Actual_Result>
+	<Link>"https:..."</Link>
+	<License>"FCA"</License>
+	<Role>"authorized"</Role>
+	<Telegram_@nick_Bug_started>"@AzarovP"</Telegram_@nick_Bug_started>
+	<Telegram_@nick_Bug_reproduced>"nick"</Telegram_@nick_Bug_reproduced>
+	<Telegram_@nick_Bug_didnt_reproduce>"nick"</Telegram_@nick_Bug_didnt_reproduce>
+	<Bug_didnt_reproduce_environment>"nick"</Bug_didnt_reproduce_environment>
+	<Bug_comments>"Comment"</Bug_comments>
+	<reviewed>"Nick"</reviewed>
+	<Corrected>"Nick"</Corrected>
+	<Bug_reviewed>"@nick/status/date"</Bug_reviewed>
+</bug>
